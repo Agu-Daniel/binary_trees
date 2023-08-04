@@ -255,5 +255,5 @@ Function Prototypes
     * Searching for a node in a binary heap of size `n`.
 
 ## Author
-- [UDO INNOCENT CHARLES](https://github.com/Innocentsax)
-- [PIUS OWOLABI](https://github.com/opius2017)
+- [AGU DANIEL C](https://github.com/Agu-Daniel)
+  
